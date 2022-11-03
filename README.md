@@ -1,5 +1,6 @@
 # Download Termux 
-<button>Download : https://bit.ly/3T5Nhu6</button>
+<button>Download : <a align="center" href="https://bit.ly/3T5Nhu6">
+<img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
 
 # Perintah termux :
     $ apt update -y && apt upgrade -y
@@ -15,5 +16,5 @@
     $ cd instagram-crack
     $ python run.py
 # Beli Lisensi :
-<a align="center" href="https://github.com/z-CodeH4ck/">
+<a align="center" href="t.me/marlina_melisa">
 <img src="https://img.shields.io/badge/WhatsApp-Beli%20LIsensi-green>"/> 
