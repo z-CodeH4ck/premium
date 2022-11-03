@@ -14,5 +14,6 @@
     $ git clone https://github.com/z-CodeH4ck/instagram-crack
     $ cd instagram-crack
     $ python run.py
-# Beli Lisensi
-<button>Download : https://t.me/marlina_melisa</button>
+# Beli Lisensi :
+<a align="center" href="https://github.com/z-CodeH4ck/">
+<img src="https://img.shields.io/badge/WhatsApp-Beli%20LIsensi-green>"/> 
