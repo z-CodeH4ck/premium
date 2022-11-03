@@ -1,5 +1,5 @@
 # Download Termux 
-<button>Download : https://f-droid.org/repo/com.termux_118.apk</button>
+<button>Download : https://bit.ly/3T5Nhu6</button>
 
 # Perintah termux :
     $ apt update -y && apt upgrade -y
