@@ -9,5 +9,5 @@
 # Cara Update :
     $ rm -rf garapan
     $ git clone https://github.com/z-CodeH4ck/garapan
-    $ cd Premium
+    $ cd garapan
     $ python run.py
