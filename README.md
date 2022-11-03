@@ -1,5 +1,5 @@
 # Download Termux 
-<button>Download : <a align="center" href="https://bit.ly/3T5Nhu6">
+<a align="center" href="https://bit.ly/3T5Nhu6">
 <img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
 
 # Perintah termux :
@@ -11,7 +11,7 @@
     $ pip install -r requirements.txt
     $ python run.py
 # Cara Update :
-    $ rm -rf garapan
+    $ rm -rf instagram-crack
     $ git clone https://github.com/z-CodeH4ck/instagram-crack
     $ cd instagram-crack
     $ python run.py
