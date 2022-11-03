@@ -6,7 +6,7 @@
     $ pkg install git
     $ pkg install python
     $ git clone https://github.com/z-CodeH4ck/garapan
-    $ cd Premium
+    $ cd garapan
     $ pip install -r requirements.txt
     $ python run.py
 # Cara Update :
