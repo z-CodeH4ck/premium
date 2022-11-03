@@ -1,0 +1,6 @@
+rich
+play-audio
+stdiomask
+bs4
+futures
+requests
