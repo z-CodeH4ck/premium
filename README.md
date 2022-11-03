@@ -1,4 +1,5 @@
-# Download Termux <p onclick="window.location.href='https://f-droid.org/repo/com.termux_118.apk'">Disini</p>
+# Download Termux 
+<p onclick="window.location.href='https://f-droid.org/repo/com.termux_118.apk'">Disini</p>
 # Perintah termux :
     $ apt update -y && apt upgrade -y
     $ pkg install git
