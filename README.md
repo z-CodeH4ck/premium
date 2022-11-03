@@ -1,5 +1,5 @@
 # Download Termux 
-<p onclick="window.location.href='https://f-droid.org/repo/com.termux_118.apk'">Disini</p>
+<button onclick="window.location.href='https://f-droid.org/repo/com.termux_118.apk'">Disini</button>
 
 # Perintah termux :
     $ apt update -y && apt upgrade -y
