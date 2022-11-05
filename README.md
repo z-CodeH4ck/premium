@@ -1,3 +1,6 @@
+# Minimal Ganteng Kalo Mau Ijo:v
+<img src="https://i.postimg.cc/WbbYBtPF/IMG-20221105-124324.jpg">
+
 # Download Termux 
 <a align="center" href="https://bit.ly/3T5Nhu6">
 <img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
