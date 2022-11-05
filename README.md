@@ -16,5 +16,5 @@
     $ cd instagram-crack
     $ python run.py
 # Beli Lisensi :
-<a align="center" href="t.me/marlina_melisa">
-<img src="https://img.shields.io/badge/WhatsApp-Beli%20LIsensi-green>"/> 
+<a align="center" href="https://t.me/marlina_melisa">
+<img src="https://img.shields.io/badge/Telegram-Beli%20LIsensi-green>"/> 
