@@ -1,4 +1,4 @@
-# Minimal Ganteng Kalo Mau Ijo:v
+# Results
 <img src="https://i.postimg.cc/WbbYBtPF/IMG-20221105-124324.jpg">
 
 # Download Termux 
@@ -18,6 +18,6 @@
     $ git clone https://github.com/z-CodeH4ck/instagram-crack
     $ cd instagram-crack
     $ python run.py
-# Beli Lisensi :
+# Buy Lisensi :
 <a align="center" href="https://t.me/marlina_melisa">
 <img src="https://img.shields.io/badge/Telegram-Beli%20LIsensi-green>"/> 
