@@ -2,9 +2,7 @@
 <span>
 <img src="https://i.postimg.cc/WbbYBtPF/IMG-20221105-124324.jpg">
 </span>
-<span>
-<img src="https://i.postimg.cc/RV92Cfww/IMG-20221106-073155.jpg">
-</span>
+
 
 # Download Termux 
 <a align="center" href="https://bit.ly/3T5Nhu6">
