@@ -12,6 +12,8 @@
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python
+    $ pip install rich
+    $ pip install stdiomask
     $ git clone https://github.com/z-CodeH4ck/instagram-crack
     $ cd instagram-crack
     $ pip install -r requirements.txt
