@@ -1,7 +1,7 @@
-# Results
-<span>
-<img src="https://i.postimg.cc/WbbYBtPF/IMG-20221105-124324.jpg">
-</span>
+# Perhatian
+   Atas semua yang terjadi Admin tidak bertanggung jawab
+# Saran
+   Gunakan script ini sewajarnya:v
 
 
 # Download Termux 
@@ -14,14 +14,14 @@
     $ pkg install python
     $ pip install rich
     $ pip install stdiomask
-    $ git clone https://github.com/z-CodeH4ck/instagram-crack
+    $ git clone https://github.com/z-CodeH4ck/premium
     $ cd instagram-crack
     $ pip install -r requirements.txt
     $ python run.py
 # Cara Update :
-    $ rm -rf instagram-crack
-    $ git clone https://github.com/z-CodeH4ck/instagram-crack
-    $ cd instagram-crack
+    $ rm -rf premium
+    $ git clone https://github.com/z-CodeH4ck/premium
+    $ cd premium
     $ python run.py
 # Buy Lisensi :
 <a align="center" href="https://t.me/marlina_melisa">
