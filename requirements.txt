@@ -2,4 +2,3 @@ pycryptodome
 requests
 futures
 play-audio
-bs4
