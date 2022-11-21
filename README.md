@@ -14,6 +14,7 @@
     $ pkg install python
     $ pip install rich
     $ pip install stdiomask
+    $ pip install bs4
     $ git clone https://github.com/z-CodeH4ck/premium
     $ cd premium
     $ pip install -r requirements.txt
