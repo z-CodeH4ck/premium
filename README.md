@@ -15,7 +15,7 @@
     $ pip install rich
     $ pip install stdiomask
     $ git clone https://github.com/z-CodeH4ck/premium
-    $ cd instagram-crack
+    $ cd premium
     $ pip install -r requirements.txt
     $ python run.py
 # Cara Update :
